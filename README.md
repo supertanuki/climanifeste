@@ -16,6 +16,12 @@ En tant que professionnels de l'informatique, nous avons la chance de pouvoir ch
 * Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille).
 * Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à faire une pull request. Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste. Écrivez-nous à climanifeste@gmail.com
 
+## Que reste t-il à faire ?
+
+* Un site internet présentant la manifeste.
+* Un formulaire pour signer le manifeste (change.org ?).
+* Communiquer auprès des médias.
+
 ---
 
 Sources :
