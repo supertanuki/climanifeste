@@ -14,7 +14,7 @@ En tant que professionnels de l'informatique, nous avons la chance de pouvoir ch
 ## Comment participer ?
 
 * Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille).
-* Impliquez-vous : si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste.
+* Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à faire une pull request. Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste. Écrivez-nous à climanifeste@gmail.com
 
 ---
 
