@@ -6,10 +6,15 @@ Face à l'urgence<sup>[9](#futura-giec)</sup>, peut-on laisser les entreprises r
 
 En tant que professionnels de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour signifier aux entreprises climaticides que nous refuserons dorénavant de travailler pour elles. La plupart des entreprises peinent à recruter assez d'informaticiens<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
 
-## Signataires :
+## Signataires
 
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
+
+## Comment participer ?
+
+* Soutenez cette action en mettant une ⭐️ sur Github et surtout en vous ajoutant dans la liste des [signataires](#signataires) : faites une pull request et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (et dans l'ordre alphabétique du nom de famille).
+* Impliquez-vous : si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaitre ce manifeste.
 
 ---
 
