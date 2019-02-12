@@ -1,4 +1,4 @@
-# Manifeste des professionnels de l'informatique pour limiter le réchauffement climatique
+# Manifeste écologique des professionnels de l'informatique
 
 En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déja<sup>[4](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[5](#figaro-catastrophes)</sup> et à l'avenir, tou.te.s les français.e.s seront impacté.e.s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[6,](#youtube-jouzel)</sup> <sup>[7](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[8](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir. 
 
