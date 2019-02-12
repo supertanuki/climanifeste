@@ -8,7 +8,7 @@ En tant que professionnels de l'informatique, nous avons la chance de pouvoir ch
 
 ## Signataires :
 
-* [Jean-François Fourmond](http://jffourmond.github.io/), développeur freelance
+* [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 
 ---
